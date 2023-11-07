@@ -8,7 +8,8 @@
   
 ---
 
-Project live URL [here](https://scrapay-server.up.railway.app/).
+Project frontend live URL [here](https://scrapay.vercel.app).
+Project backend live URL [here](https://scrapay-production.up.railway.app/).
 
 ---
 
